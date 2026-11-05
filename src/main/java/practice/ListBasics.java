@@ -7,7 +7,7 @@ public class ListBasics {
     public static void main(String[] args) {
         {
             List<String> browsers = new ArrayList<>();
-            browsers.add("Opera");
+            browsers.add("BRAVO");
             browsers.add("Firefox");
             browsers.add("Edge");
 
